@@ -1,5 +1,5 @@
 ## コーポレートサイト向けWordPressテーマ「Company」
-このテーマはWordPress+Bootstrapフレームワークのhttps://understrap.com/を使用して作成しました。
+このテーマはWordPress+Bootstrapフレームワークのhttps://understrap.com/ を使用して作成しました。
 
 デモサイトURL→https://theme-company.pofori.com/
 
