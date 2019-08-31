@@ -1,0 +1,29 @@
+// This is an empty scss file for your custom styles - Please add your super duper awesome mega design styles here
+
+// This is an empty scss file for your custom styles - Please add your super duper awesome mega design styles here
+body {
+  background: #f0efef;
+}
+a {
+  color: #535353;
+  cursor: pointer;
+  transition: all .2s;
+  &:hover {
+    color: #8b8888;
+    text-decoration: none;
+  }
+}
+
+.wrapper {
+  @media screen and (max-width: 576px) {
+    padding: 10px 0;
+  }
+}
+
+@import './theme-nav'; // nav
+@import './theme-top'; // top
+@import './theme-allnews'; // allnews
+@import './theme-news'; // news
+@import './theme-company'; // company
+@import './theme-page'; // page
+@import './theme-footer'; // footer

@@ -1,0 +1,16 @@
+.entry {
+  &-header {
+    img {
+      width: 100%;
+    }
+    h1 {
+      font-size: 1.5rem;
+      margin: 1rem 0;
+    }
+  }
+
+  &-meta {
+    font-size: .9rem;
+    margin-bottom: 2rem;
+  }
+}

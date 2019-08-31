@@ -1,0 +1,34 @@
+.setting-content-wrap {
+  .setting-content {
+    margin-bottom: 40px;
+
+    &-title {
+      margin-bottom: 0;
+    }
+  }
+
+  .form-table {
+    margin-left: 20px;
+
+    th {
+      width: 100px;
+    }
+  }
+}
+
+.setCompany {
+  border-collapse: separate;
+  border-spacing: 0 20px;
+
+  &-itemName {
+    white-space: nowrap;
+    vertical-align: top;
+  }
+
+  &-item {
+    width: 100%;
+    textarea {
+      width: 95%;
+    }
+  }
+}

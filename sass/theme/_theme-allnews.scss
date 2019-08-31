@@ -1,0 +1,31 @@
+.allNews {
+
+  &-item {
+    display: block;
+    background: #ffffff;
+    padding-bottom: 3rem;
+    margin-bottom: 2rem;
+    color: $font_gray;
+    box-shadow: 4px 4px 10px -3px #b8b6b6;
+    img {
+      width: 100%;
+    }
+  }
+
+  &-date {
+    margin: 0;
+    font-size: 0.9rem;
+    padding: 0.8rem;
+  }
+
+  &-title {
+    padding: 0 0.8rem;
+    font-size: 1rem;
+  }
+}
+
+.wrapper.news {
+  .pagination-wrapper {
+    margin-left: 15px;
+  }
+}
